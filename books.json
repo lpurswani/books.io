@@ -1,0 +1,41 @@
+{
+  "books":
+  [
+    {
+      "title": "Green Eggs and Ham",
+      "author": "Dr. Suess",
+      "coverImage": "images/green-eggs-and-ham.jpg",
+      "summary": "Green Eggs and Ham is about Sam-I-Am, trying to convince the narrator to try green eggs and ham. He spends most of the book, offering the unnamed character different locations and dining partners to try the delicacy. In the end the unnamed character relents and eats the green eggs and ham, and end up loving the food.",
+      "reviews":
+        [
+          {"firstReview": "My son loves it"},
+          {"secondReview": "Amazing book that not only kids but also adults should enjoy"},
+          {"thirdReview": "This used to be my favourite book too, suprisingly enough. This book is simple for young children who are learning to read, however they may ask for green eggs and ham"}
+        ]
+    },
+    {
+      "title": "The Secret Life of Bees",
+      "author": "Sue Monk Kidd",
+      "coverImage": "images/the-secret-life-of-bees.jpg",
+      "summary": "Set in the fictitious town of Sylvan, South Carolina, in 1964, The Secret Life of Bees tells the story of a 14-year-old white girl, Lily Melissa Owens, whose life has been shaped around the blurred memory of the afternoon her mother was killed. She lives in a house with her abusive father, whom she refers to as T.",
+      "reviews":
+        [
+          {"firstReview": "I confess to being a little hesitant going into this book. It is, after all, that most cliched and irritating of literati faves: a coming-of-age story set in the American South. Lily, a motherless 14-year-old girl lives with her bigoted abusive father on a peach farm in South Carolina. Her goals involve befriending black people and finding information about her long-dead mother. Just summarizing this thing inspires the eye-rolling."},
+          {"secondReview": "The Secret Life of Bees is a lovely tale. It tells of Lily, a South Carolina 14 year old. She lives, unhappily, with her crusty father T. Ray and Rosaleen, the woman who raised her after her mother died when Lily was 4. It is a coming of age tale set against the civil rights issues of the early 60’s. It is certainly no coincidence that Lily (as in white) spends most of the book in the company of earth-mother black people. "},
+          {"thirdReview": "A coming-to-age novel set in South Carolina at the height of desegregation. Lily is a lovable pre-teen who'd grown up believing she killed her mother (accidentally) and is trying to escape a brutal, abusive father. Filled with a cast of eccentric characters, Lily runs away with Rosaleen, a black servant, and finds herself in a beekeeper's sanctuary, where secrets come spilling out of the closet for a cymbal-clashing ending."}
+        ]
+    },
+    {
+      "title": ,
+      "author": ,
+      "coverImage": ,
+      "summary": ,
+      "reviews":
+        [
+          {"firstReview": },
+          {"secondReview": },
+          {"thirdReview": }
+        ]
+    }
+  ]
+}
