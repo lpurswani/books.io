@@ -26,15 +26,15 @@
         ]
     },
     {
-      "title": ,
-      "author": ,
-      "coverImage": ,
-      "summary": ,
+      "title": "1984" ,
+      "author": "George Orwell",
+      "coverImage": "images/1984.jpg",
+      "summary": "1984 is a dystopian novella by George Orwell published in 1949, which follows the life of Winston Smith, a low ranking member of 'the Party', who is frustrated by the omnipresent eyes of the party, and its ominous ruler Big Brother. 'Big Brother' controls every aspect of people's lives.",
       "reviews":
         [
-          {"firstReview": },
-          {"secondReview": },
-          {"thirdReview": }
+          {"firstReview": "In 1949, George Orwell completed his masterpiece, a book which would later gain four major film adaptations, and created words such as telescreen, thoughtcrime, and doublethink, which are used and are in today's dictionary: 1984. A true work of genius, as well as my all-time favorite and least favorite novel (here I exercise doublethink) it's truly a masterpiece."},
+          {"secondReview": "1984 is a grim tale telling us about the consequences that we may face if a totalitarian state happens to come in power and grew omnipotent. It is a terrifying read almost horror-like and thus also very effective on the minds of the reader. A lot of respect for George Orwell for establishing such a well-realized and detailed world, he truly is a visionary in that sense. It is a novel that everyone should read at least once!"},
+          {"thirdReview": "This must be my all-time favorite book. It may be a hard read and is especially dense towards the middle but it is all worth it and shows how flawless a society like this could run. Written out of fear of socialism and totalitarianism it obviously has prevalent political messages that make the scenario terrifyingly possible. "}
         ]
     }
   ]
