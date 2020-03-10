@@ -26,15 +26,15 @@
         ]
     },
     {
-      "title": "1984" ,
-      "author": "George Orwell",
-      "coverImage": "images/1984.jpg",
-      "summary": "1984 is a dystopian novella by George Orwell published in 1949, which follows the life of Winston Smith, a low ranking member of 'the Party', who is frustrated by the omnipresent eyes of the party, and its ominous ruler Big Brother. 'Big Brother' controls every aspect of people's lives.",
+      "title": "The Great Gatsby",
+      "author": "F. Scott-Fitzgerald",
+      "coverImage": "iamges/the-great-gatsby.jpeg",
+      "summary": "Nick Carraway, a young man from Minnesota, moves to New York in the summer of 1922 to learn about the bond business. He rents a house in the West Egg district of Long Island, a wealthy but unfashionable area populated by the new rich, a group who have made their fortunes too recently to have established social connections and who are prone to garish displays of wealth. Nick’s next-door neighbor in West Egg is a mysterious man named Jay Gatsby, who lives in a gigantic Gothic mansion and throws extravagant parties every Saturday night.",
       "reviews":
         [
-          {"firstReview": "In 1949, George Orwell completed his masterpiece, a book which would later gain four major film adaptations, and created words such as telescreen, thoughtcrime, and doublethink, which are used and are in today's dictionary: 1984. A true work of genius, as well as my all-time favorite and least favorite novel (here I exercise doublethink) it's truly a masterpiece."},
-          {"secondReview": "1984 is a grim tale telling us about the consequences that we may face if a totalitarian state happens to come in power and grew omnipotent. It is a terrifying read almost horror-like and thus also very effective on the minds of the reader. A lot of respect for George Orwell for establishing such a well-realized and detailed world, he truly is a visionary in that sense. It is a novel that everyone should read at least once!"},
-          {"thirdReview": "This must be my all-time favorite book. It may be a hard read and is especially dense towards the middle but it is all worth it and shows how flawless a society like this could run. Written out of fear of socialism and totalitarianism it obviously has prevalent political messages that make the scenario terrifyingly possible. "}
+          {"firstReview": "The Great Gatsby is your neighbor you're best friends with until you find out he's a drug dealer. It charms you with some of the most elegant English prose ever published, making it difficult to discuss the novel without the urge to stammer awestruck about its beauty. It would be evidence enough to argue that F. Scott Fitzgerald was superhuman, if it wasn't for the fact that we know he also wrote This Side of Paradise."},
+          {"secondReview": "Jay Gatsby, you poor doomed bastard. You were ahead of your time. If you would have pulled your scam after the invention of reality TV, you would have been a huge star on a show like The Bachelor and a dozen shameless Daisy-types would have thrown themselves at you."},
+          {"thirdReview": "This is a good book, though it is so ridiculously overrated. There are so many great books out there that will never get the attention they deserve. They will be forgotten and their wisdom heard by only a select few who are willing to go looking for it. So it annoys me when books like this are acclaimed by critics and readers alike as the best pieces of fiction in existence (when they are not.) There’s so much more out there!"}
         ]
     }
   ]
