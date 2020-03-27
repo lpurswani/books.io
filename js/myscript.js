@@ -20,10 +20,10 @@ function showBook(booksObj, i) {
   var authorID = "book"+i+"Author";
   var summaryID = "book"+i+"Summary";
   var coverID = "book"+i+"Cover";
-//  var reviewID = "book"+i+"Review";
+  var reviewsID = "book"+i+"Reviews";
   document.getElementById(titleID).innerHTML = book.title;
   document.getElementById(authorID).innerHTML = book.author;
   document.getElementById(summaryID).innerHTML = book.summary;
   document.getElementById(coverID).src = book.coverImage;
-//  document.getElementById(reviewID).innerHTML = book.review;
+  document.getElementById(reviewsID).innerHTML = book.reviews;
 }
