@@ -19,9 +19,9 @@ function showBook(booksObj, i) {
   var titleID = "book"+i+"Title";
   var summaryID = "book"+i+"Summary";
   var coverID = "book"+i+"Cover";
-  var authorID = "book"+i+"Author";
+  var reviewID = "book"+i+"Review";
   document.getElementById(titleID).innerHTML = book.title;
   document.getElementById(summaryID).innerHTML = book.summary;
   document.getElementById(coverID).src = book.coverImage;
-  document.getElementById(authorID).innerHTML = book.author;
+  document.getElementById(reviewID).innerHTML = book.review;
 }
