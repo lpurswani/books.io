@@ -17,11 +17,13 @@ function loadBooks() {
 function showBook(booksObj, i) {
   var book = booksObj.books[i];
   var titleID = "book"+i+"Title";
+  var authorID = "book"+i+"Author";
   var summaryID = "book"+i+"Summary";
   var coverID = "book"+i+"Cover";
- // var reviewID = "book"+i+"Review";
+//  var reviewID = "book"+i+"Review";
   document.getElementById(titleID).innerHTML = book.title;
+  document.getElementById(authorID).innerHTML = book.author;
   document.getElementById(summaryID).innerHTML = book.summary;
   document.getElementById(coverID).src = book.coverImage;
- // document.getElementById(reviewID).innerHTML = book.review;
+//  document.getElementById(reviewID).innerHTML = book.review;
 }
